@@ -12,11 +12,11 @@ const Footer = () => {
       <Typography variant="subtitle1" align="center" color="textSecondary" sx={{ mt: 1, fontFamily: 'Lato, sans-serif' }}>
         © {new Date().getFullYear()} Lyza Kate Villanueva Lachica - In Loving Memory
       </Typography>
-      <Box sx={{ display: 'flex', justifyContent: 'center', gap: 2, mt: 1 }}>
+      {/* <Box sx={{ display: 'flex', justifyContent: 'center', gap: 2, mt: 1 }}>
         <Facebook fontSize="small" sx={{ cursor: 'pointer' }} />
         <Instagram fontSize="small" sx={{ cursor: 'pointer' }} />
         <Twitter fontSize="small" sx={{ cursor: 'pointer' }} />
-      </Box>
+      </Box> */}
     </Container>
   </Box>
   )

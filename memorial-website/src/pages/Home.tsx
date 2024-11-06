@@ -48,9 +48,20 @@ export const Home = () => {
         </Typography>
       </Box>
       {/* Hero picture of lyza */}
+      {/* Life story */}
       <Box1>
         <LifeStory />
       </Box1>
+      {/* Unfinished books */}
+      <Box1>
+        <Typography variant="h4" sx={{ mb: 3 }}>
+          Echoes of Her Imagination
+        </Typography>
+        <iframe src="the-reminisce.pdf" width="100%" height="600px">
+          Your browser does not support iframes.
+        </iframe>
+      </Box1>
+      {/* Videos */}
       <Box1>
         <Typography variant="h4" sx={{ mb: 3 }}>
           Memories

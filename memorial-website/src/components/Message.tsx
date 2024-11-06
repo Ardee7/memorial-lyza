@@ -9,7 +9,15 @@ export const Message = ({
 }) => {
   return (
     <Box sx={{ pt: 20, pb: 20, justifyItems: "center" }}>
-      <Box sx={{ width: "80%", ml: "auto", mr: "auto" }}>
+      <Box
+        sx={{
+          width: "80%",
+          height: 400,
+          overflow: "scroll",
+          ml: "auto",
+          mr: "auto",
+        }}
+      >
         <Typography variant="body2" sx={{ fontStyle: "italic", fontSize: 18 }}>
           {message}
         </Typography>

@@ -26,7 +26,7 @@ export const LifeStory = () => {
         Lyza. With me as the only boy among the siblings, Lyza brought an energy
         that filled every corner of our childhood. Her name, Lyza Kate
         Villanueva Lachica, resonates with the laughter and boundless spirit she
-        carried for twenty years, ever since she was born on June 9, 2024. Lyza
+        carried for twenty years, ever since she was born on June 9, 2004. Lyza
         grew up full of life, a bright spark in the classroom and the ringleader
         of all the neighborhood games. Pictures of our childhood capture a
         vibrant little girl with a fearless smile, always at the center of play,
